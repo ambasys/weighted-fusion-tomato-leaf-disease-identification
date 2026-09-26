@@ -1,0 +1,11 @@
+{
+    "random_seed": 42,
+    "image_size": 224,
+    "batch_size": 32,
+    "max_epochs": 50,
+    "channels": 3,
+    "n_classes": 10,
+    "source_dataset_dir": "PlantVillage",
+    "split_base_dir": "dataset_splits",
+    "checkpoint_path": "training_logs\\best_checkpoint\\best_model_v2.weights.h5"
+}

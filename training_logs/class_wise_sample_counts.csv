@@ -1,0 +1,11 @@
+,train,val,test,total
+Bacterial_spot,1701,213,213,2127
+Early_blight,800,100,100,1000
+Late_blight,1527,191,191,1909
+Leaf_Mold,762,95,95,952
+Septoria_leaf_spot,1417,177,177,1771
+Spider_mites,1341,167,168,1676
+Target_Spot,1123,140,141,1404
+YellowLeaf__Curl_Virus,2566,321,321,3208
+healthy,1273,159,159,1591
+mosaic_virus,298,38,37,373

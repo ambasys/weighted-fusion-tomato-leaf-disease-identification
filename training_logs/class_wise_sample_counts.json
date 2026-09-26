@@ -1,0 +1,62 @@
+{
+    "Bacterial_spot": {
+        "train": 1701,
+        "val": 213,
+        "test": 213,
+        "total": 2127
+    },
+    "Early_blight": {
+        "train": 800,
+        "val": 100,
+        "test": 100,
+        "total": 1000
+    },
+    "Late_blight": {
+        "train": 1527,
+        "val": 191,
+        "test": 191,
+        "total": 1909
+    },
+    "Leaf_Mold": {
+        "train": 762,
+        "val": 95,
+        "test": 95,
+        "total": 952
+    },
+    "Septoria_leaf_spot": {
+        "train": 1417,
+        "val": 177,
+        "test": 177,
+        "total": 1771
+    },
+    "Spider_mites": {
+        "train": 1341,
+        "val": 167,
+        "test": 168,
+        "total": 1676
+    },
+    "Target_Spot": {
+        "train": 1123,
+        "val": 140,
+        "test": 141,
+        "total": 1404
+    },
+    "YellowLeaf__Curl_Virus": {
+        "train": 2566,
+        "val": 321,
+        "test": 321,
+        "total": 3208
+    },
+    "healthy": {
+        "train": 1273,
+        "val": 159,
+        "test": 159,
+        "total": 1591
+    },
+    "mosaic_virus": {
+        "train": 298,
+        "val": 38,
+        "test": 37,
+        "total": 373
+    }
+}

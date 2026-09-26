@@ -1,0 +1,75 @@
+{
+    "Bacterial_spot": {
+        "precision": 0.9631336405529954,
+        "recall": 0.9812206572769953,
+        "f1-score": 0.9720930232558139,
+        "support": 213.0
+    },
+    "Early_blight": {
+        "precision": 0.989010989010989,
+        "recall": 0.9,
+        "f1-score": 0.9424083769633508,
+        "support": 100.0
+    },
+    "Late_blight": {
+        "precision": 0.9739583333333334,
+        "recall": 0.9790575916230366,
+        "f1-score": 0.9765013054830287,
+        "support": 191.0
+    },
+    "Leaf_Mold": {
+        "precision": 0.9789473684210527,
+        "recall": 0.9789473684210527,
+        "f1-score": 0.9789473684210527,
+        "support": 95.0
+    },
+    "Septoria_leaf_spot": {
+        "precision": 0.9885057471264368,
+        "recall": 0.9717514124293786,
+        "f1-score": 0.98005698005698,
+        "support": 177.0
+    },
+    "Spider_mites": {
+        "precision": 0.9813664596273292,
+        "recall": 0.9404761904761905,
+        "f1-score": 0.9604863221884499,
+        "support": 168.0
+    },
+    "Target_Spot": {
+        "precision": 0.8853503184713376,
+        "recall": 0.9858156028368794,
+        "f1-score": 0.9328859060402684,
+        "support": 141.0
+    },
+    "YellowLeaf__Curl_Virus": {
+        "precision": 1.0,
+        "recall": 0.9781931464174455,
+        "f1-score": 0.988976377952756,
+        "support": 321.0
+    },
+    "healthy": {
+        "precision": 0.9754601226993865,
+        "recall": 1.0,
+        "f1-score": 0.9875776397515528,
+        "support": 159.0
+    },
+    "mosaic_virus": {
+        "precision": 0.9736842105263158,
+        "recall": 1.0,
+        "f1-score": 0.9866666666666667,
+        "support": 37.0
+    },
+    "accuracy": 0.9725343320848939,
+    "macro avg": {
+        "precision": 0.9709417189769176,
+        "recall": 0.9715461969480979,
+        "f1-score": 0.9706599966779919,
+        "support": 1602.0
+    },
+    "weighted avg": {
+        "precision": 0.9737007232630831,
+        "recall": 0.9725343320848939,
+        "f1-score": 0.9726404682000643,
+        "support": 1602.0
+    }
+}

@@ -1,0 +1,11 @@
+,Bacterial_spot,Early_blight,Late_blight,Leaf_Mold,Septoria_leaf_spot,Spider_mites,Target_Spot,YellowLeaf__Curl_Virus,healthy,mosaic_virus
+Bacterial_spot,209,0,2,0,1,0,1,0,0,0
+Early_blight,2,90,2,0,0,0,5,0,0,1
+Late_blight,0,0,187,0,1,1,0,0,2,0
+Leaf_Mold,0,0,1,93,0,1,0,0,0,0
+Septoria_leaf_spot,0,1,0,1,172,1,2,0,0,0
+Spider_mites,0,0,0,0,0,158,10,0,0,0
+Target_Spot,1,0,0,0,0,0,139,0,1,0
+YellowLeaf__Curl_Virus,5,0,0,1,0,0,0,314,1,0
+healthy,0,0,0,0,0,0,0,0,159,0
+mosaic_virus,0,0,0,0,0,0,0,0,0,37
